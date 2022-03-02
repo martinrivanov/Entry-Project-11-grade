@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\EntranceProject.exe
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\EntranceProject.deps.json
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\EntranceProject.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\EntranceProject.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\EntranceProject.dll
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\ref\EntranceProject.dll
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\bin\Debug\net5.0\EntranceProject.pdb
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.dll
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\ref\EntranceProject.dll
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.pdb
+C:\Users\Lenovo\source\repos\EntranceProject\EntranceProject\obj\Debug\net5.0\EntranceProject.genruntimeconfig.cache

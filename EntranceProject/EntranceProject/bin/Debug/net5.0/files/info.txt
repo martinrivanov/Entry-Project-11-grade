@@ -1,0 +1,5 @@
+Adrian|Stoilkov|Lazarov|ded@znAm|admin
+Emil|Hristov|Balabanov|qwertyu|admin
+John|Christofer|Reynolds|Boston, "Paradise" Str.|3207|2000|user
+Yoan|Draganov|Tsankov|Plovdiv, kvartal Stolipinovo|1235|2000|user
+Zayn|Blake|Johnson|London, "Queen Victoria" Str.|2356|2000|user
